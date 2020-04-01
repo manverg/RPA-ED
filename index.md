@@ -1,4 +1,4 @@
-# COVID-19 Information
+# COVID-19 Educational Links
 
 ## [PPE](ppe.md)
 
@@ -13,6 +13,8 @@
 ## [ICU pages](icu.md)
 
 ## [Previous updates](prev-updates.md)
+
+## [Zoom Teaching](zoom.md)
 
 ## [Other links](other.md)
 
