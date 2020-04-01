@@ -6,7 +6,7 @@
 
 ## OXYLOG 3000
 
-* [OWN THE OXLOG](https://www.youtube.com/watch?v=7kRf2VGG3Fo&feature=youtu.be)
+* [OWN THE OXYLOG](https://www.youtube.com/watch?v=7kRf2VGG3Fo&feature=youtu.be)
 
 * [GUIDELINES](https://drive.google.com/file/d/1NnhnEtRAUYxfzYT8kxqnGfNbzGd54o3J/view)
 
