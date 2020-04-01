@@ -1,4 +1,4 @@
-# COVID-19 Educational Links
+# COVID Educational Links
 
 ## [PPE](ppe.md)
 
