@@ -2,7 +2,9 @@
 
 ## HAMILTON
 
-[Covid NIV on Hamilton](https://www.youtube.com/watch?v=-M0KCggp1Lw&feature=youtu.be)
+* [Covid NIV on Hamilton](https://www.youtube.com/watch?v=-M0KCggp1Lw&feature=youtu.be)
+
+* [Paediatric Hamilton](paediatrics.md)
 
 ## OXYLOG 3000
 
