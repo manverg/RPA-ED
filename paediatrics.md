@@ -1,6 +1,6 @@
 # Hamilton
 
-## Hi Flow
+## * Hi Flow
 
-## Nasal CPAP
+## * Nasal CPAP
 
