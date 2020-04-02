@@ -1,6 +1,6 @@
 # PPE
 
-(PPE comes first = we want NO staff infections for the next 6 months)
+(PPE comes first = we want NO staff infections for the next 6 months!)
 
 [Farina / Jon on PPE](https://youtu.be/pXlwkuETwwc)
 
