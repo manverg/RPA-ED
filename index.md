@@ -8,6 +8,8 @@
 
 ## [Equipment](equipment.md)
 
+## [Paediatrics](paediatrics.md)
+
 ## [Flow diagrams](flow.md)
 
 ## [ICU pages](icu.md)
