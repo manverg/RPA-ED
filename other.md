@@ -7,3 +7,9 @@
 [onthewards](https://onthewards.org/onthepods/)
 
 ![onthewards](images/onthewards.png)
+
+[CIAP-COVID resources](https://www.ciap.health.nsw.gov.au/specialty-guides/covid-19/resources.html)
+
+![CIAP](images/ciap.png)
+
+
