@@ -1,8 +1,24 @@
 # Zoom teaching links
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+## Wednesday Teaching
 
-# [Spreadsheet](https://docs.google.com/spreadsheets/d/1C3anXysAB-uvIaFaYQ_m7QUVY-COHyE_9DhEFXks9PQ/edit#gid=0)
+Date | Topic | Speakers
+------------ | ------------- |-----------------
+1/4/20 | [Pandemeic/Hanging](https://youtu.be/bbzI07mA4tQ) | Bein/Domadius
+Content in the first column | Content in the second column |
+
+## [Spreadsheet to exams](https://docs.google.com/spreadsheets/d/1jnWn7syC7M4RzhP0wiuecrviSwpLbUPcHT-4eKX4Y-I/edit?usp=sharing)
+
+## JMO teaching
+
+Date | Topic | Speakers
+------------ | ------------- |-----------------
+TBA| -- | --
+Content in the first column | Content in the second column |
+
+## Orientation
+
+Date | Topic | Speakers
+------------ | ------------- |-----------------
+TBA| -- | --
+Content in the first column | Content in the second column |

@@ -2,7 +2,9 @@
 
 ## HAMILTON
 
-* [Covid NIV on Hamilton](https://www.youtube.com/watch?v=-M0KCggp1Lw&feature=youtu.be)
+* [Hamilton Training videos](hamiltonT1.md)
+
+* [Covid NIV Adult - James](https://www.youtube.com/watch?v=-M0KCggp1Lw&feature=youtu.be)
 
 * [Paediatric Hamilton](hamiltonT1.md)
 
