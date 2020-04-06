@@ -2,6 +2,8 @@
 
 ## HAMILTON
 
+* [Hamilton Training videos]
+
 * [Covid NIV on Hamilton](https://www.youtube.com/watch?v=-M0KCggp1Lw&feature=youtu.be)
 
 * [Paediatric Hamilton](hamiltonT1.md)
