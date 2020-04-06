@@ -2,7 +2,7 @@
 
 ## [PPE](ppe.md)
 
-## [Intubation](https://youtu.be/ELdEJ4ZutB8)
+## [Intubation](intubation.md)
 
 ## [Ultrasound](https://www.criticalcare-sonography.com/2020/03/18/features-of-lung-ultrasound-of-covid-19/)
 
