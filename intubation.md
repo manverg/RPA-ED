@@ -8,3 +8,14 @@ Watch these videos a few times and note the differences
 
 
 Do the sim with Sinead, then send Bernie an email to let her know you have watched it and done the sim
+
+
+# ACEM CPR GUIDE 6 APRIL 2020
+
+[WEBLINK to ACEM resus](https://acem.org.au/Content-Sources/Advancing-Emergency-Medicine/COVID-19/Resources/Clinical-Guidelines/Adult-Cardiac-Arrest-Management)
+
+[ACEM PPE IN ARREST](https://drive.google.com/open?id=18HtbraJi9hvt7U-UBQD_9YonD0dChxHC)
+
+[ACEM Resuscitation Algorithm](https://drive.google.com/open?id=1l6SSfSa83z0csW6qnt53MqDp1VbtuI8W)
+
+[ACEM CPR Algorithm](https://drive.google.com/open?id=1LHBNMiexSaKcWN21a1QTvpixFtR_XLkM)
