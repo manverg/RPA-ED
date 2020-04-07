@@ -8,8 +8,8 @@
 
 [CEC PPE](http://cec.health.nsw.gov.au/keep-patients-safe/Coronavirus-COVID-19/standard-and-transmission-based-precautions-including-ppe)
 
-[PPE RPA Grand Rounds April 2020](http://healthview.health.nsw.gov.au/userportal/channel?v=5e826763e4b06ebef340fedf)
-will need to sign in using nswhealth\8digitusername and your password for nswhealth
+[PPE RPA Grand Rounds April 2020](https://healthview.health.nsw.gov.au/userportal/video?v=E14b955d76bdb4046806c251271e5546c)
+will need to sign in using nswhealth\8digitusername and your password for nswhealth on SLHD-staff wifi
 
 # Wellbeing Seminars from ACEM
 ## Have a look at these as they are webinars for Emergency Docs that you can access
