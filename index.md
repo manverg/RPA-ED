@@ -14,7 +14,7 @@
 
 ## [ICU pages](icu.md)
 
-## [Previous updates](prev-updates.md)
+## [UPDATES-Fay/ED](prev-updates.md)
 
 ## [Zoom Teaching](zoom.md)
 
