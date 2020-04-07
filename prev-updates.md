@@ -4,4 +4,4 @@
 
 # ED Updates
 
-[April 6th](https://drive.google.com/file/d/1rCw_7LN4KzoUskaWSHTeVYcKkaPnFV9s/view?usp=sharing)
+[April 6th](https://drive.google.com/open?id=1jnwYF2dhM5orU3XLim75nB5WuZ5Ssr-I)
