@@ -1,7 +1,7 @@
 # Previous updates
 
-[Update 1](https://drive.google.com/file/d/16iedMKYyYtvjskGVX369wecfvgh8KOEV/view)
+[FAY Update 1](https://drive.google.com/file/d/16iedMKYyYtvjskGVX369wecfvgh8KOEV/view)
 
 # ED Updates
 
-[April test 6th](https://drive.google.com/open?id=1jnwYF2dhM5orU3XLim75nB5WuZ5Ssr-I)
+[April 6th](https://drive.google.com/open?id=14mxP4Z37U2DmPgaWPdMK2odF0nBVBe9U)
