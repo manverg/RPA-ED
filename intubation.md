@@ -4,6 +4,8 @@ Watch these videos a few times and note the differences
 
 [Sinead 1](https://vimeo.com/400852948/bcce428de4)
 
+[Sinead 2; 3min quick revision](https://youtu.be/KcTU-JjOSnA)
+
 [Dane](https://youtu.be/ELdEJ4ZutB8)
 
 
