@@ -12,6 +12,8 @@ Watch these videos a few times and note the differences
 Do the sim with Sinead, then send Bernie an email to let her know you have watched it and done the sim
 
 
+# [RPA CPR GUIDE 9 APRIL 2020](https://drive.google.com/open?id=1nGeiFdaDH2_3Bu_VC1w-8JbCvMdQM9vK)
+
 # ACEM CPR GUIDE 6 APRIL 2020
 
 [WEBLINK to ACEM resus](https://acem.org.au/Content-Sources/Advancing-Emergency-Medicine/COVID-19/Resources/Clinical-Guidelines/Adult-Cardiac-Arrest-Management)
