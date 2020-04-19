@@ -1,5 +1,7 @@
 # Covid Intubation
 
+[Intubation checklist](https://drive.google.com/open?id=1Srt1b3FiH3MYYRsfHxYuWCSOr5aQakeZ)
+
 Watch these videos a few times and note the differences
 
 [Sinead 1](https://vimeo.com/400852948/bcce428de4)
