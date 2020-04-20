@@ -8,7 +8,7 @@ Date | Topic | Speakers
 18/03/20 | [Farina / Jon on PPE](https://youtu.be/pXlwkuETwwc) | Farina/Jon
 Date | Topic | Speakers
 
-## [Spreadsheet to exams](https://docs.google.com/spreadsheets/d/1jnWn7syC7M4RzhP0wiuecrviSwpLbUPcHT-4eKX4Y-I/edit?usp=sharing)
+## [Spreadsheet to exams/teaching](https://docs.google.com/spreadsheets/d/1jnWn7syC7M4RzhP0wiuecrviSwpLbUPcHT-4eKX4Y-I/edit?usp=sharing)
 
 ## JMO teaching
 
