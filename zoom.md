@@ -4,6 +4,7 @@
 
 Date | Topic | Speakers
 ------------ | ------------- |-----------------
+16/04/20 | [Tox](https://youtu.be/lvwX4i58F_8) | Dawson
 16/04/20 | [Head Trauma](https://youtu.be/mRKu9hRiTZY) | Russell/Oliver
 01/04/20 | [Pandemeic/Hanging](https://youtu.be/bbzI07mA4tQ) | Bein/Domadius
 18/03/20 | [Farina / Jon on PPE](https://youtu.be/pXlwkuETwwc) | Farina/Jon
