@@ -4,6 +4,7 @@
 
 Date | Topic | Speakers
 ------------ | ------------- |-----------------
+09/04/20 | [Hospital Update](https://youtu.be/u9ppr0dKokM)| Troy
 16/04/20 | [Timing in Tox](https://youtu.be/lvwX4i58F_8) | Dawson
 16/04/20 | [Head Trauma](https://youtu.be/mRKu9hRiTZY) | Russell/Oliver
 01/04/20 | [Pandemeic/Hanging](https://youtu.be/bbzI07mA4tQ) | Bein/Domadius
