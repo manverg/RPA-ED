@@ -12,7 +12,7 @@
 
 ## [Flow diagrams](flow.md)
 
-## [ICU/SLHD CEWD Moodle/ACI pages](icu.md)
+## [ICU/CEWD Moodle/ACI pages](icu.md)
 
 ## [UPDATES-Fay/ED](prev-updates.md)
 
