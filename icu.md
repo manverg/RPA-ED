@@ -9,7 +9,7 @@
 [ARDSnet Strategy 2015-2017 on pdf](https://drive.google.com/file/d/1S2SM7OlsSCxi-EzXAed-pXxLpYCRF-WE/view?usp=sharing)
 
 
-# [Sydney LHD training](https://education-support.sswahs.nsw.gov.au/moodle/login/index.php)
+# [Sydney LHD CEWD Moodle](https://education-support.sswahs.nsw.gov.au/moodle/login/index.php)
 (need logon - has all the RPA hospital zoom discussions) 
 
 # [NSW HEALTH/ACI Clinical guidance and resources](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/clinical-guidance-and-resources.aspx)
