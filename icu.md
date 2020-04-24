@@ -7,3 +7,7 @@
 (only on intranet)
 
 [ARDSnet Strategy 2015-2017 on pdf](https://drive.google.com/file/d/1S2SM7OlsSCxi-EzXAed-pXxLpYCRF-WE/view?usp=sharing)
+
+
+# [Sydney LHD training](https://education-support.sswahs.nsw.gov.au/moodle/login/index.php)
+(need logon - has all the RPA hospital zoom discussions) 
