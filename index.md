@@ -12,7 +12,7 @@
 
 ## [Flow diagrams](flow.md)
 
-## [ICU pages](icu.md)
+## [ICU/Sydney LHD pages](icu.md)
 
 ## [UPDATES-Fay/ED](prev-updates.md)
 
