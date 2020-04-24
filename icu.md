@@ -11,3 +11,9 @@
 
 # [Sydney LHD training](https://education-support.sswahs.nsw.gov.au/moodle/login/index.php)
 (need logon - has all the RPA hospital zoom discussions) 
+
+# [NSW HEALTH/ACI Clinical guidance and resources](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/clinical-guidance-and-resources.aspx)
+no login required
+
+# [NSW Health/ACI Critical Intelligence Unit](https://www.aci.health.nsw.gov.au/covid-19/critical-intelligence-unit)
+no login required
