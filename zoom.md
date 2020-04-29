@@ -4,6 +4,7 @@
 
 Date | Topic | Speakers
 ------------ | ------------- |-----------------
+29/04/20 |[Moral injury Betrayal and Trust](https://youtu.be/05-FXlH2nwc) | Layson
 09/04/20 | [Hospital Update](https://youtu.be/u9ppr0dKokM)| Troy
 16/04/20 | [Timing in Tox](https://youtu.be/lvwX4i58F_8) | Dawson
 16/04/20 | [Head Trauma](https://youtu.be/mRKu9hRiTZY) | Russell/Oliver
