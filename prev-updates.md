@@ -1,5 +1,9 @@
 # From Fay
 
+[10: 08 May; severe COVID-19 paeds/ DizzyCow zoom/ Cold resus intubation/ RPA virtual](https://drive.google.com/open?id=1jYEozIhCRtCDqoi-fNf96BX5MHNbEWbY)
+
+[9: 04 May; Detention/ violence/ adult oxyen/ testing- swabbing/Geriatrics](https://drive.google.com/open?id=1WOKLBXg39o2KT7kcOBHekyKXhzU6YkQd)
+
 [8: 28April; Death/Aged Care Discharge/DV/testing clinics/Opthal referral/vascular](https://drive.google.com/open?id=14rwF8FgKapRonJVjir_0-kZxXTHbrw7R)
 
 [7: 21April; Nitrous, Genetic heart disease](https://drive.google.com/open?id=1GE_rZr9WHzq7xpkX3_PJzpEwPRu37QJg)
