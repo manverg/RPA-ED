@@ -1,5 +1,7 @@
 # From Fay
 
+[11: 12 May; Geries, Pleural fluid, CTA resus update](https://drive.google.com/open?id=1yKIfM-oCuf2PGW92pR3Y425SeJ4xpQf6)
+
 [10: 08 May; severe COVID-19 paeds/ DizzyCow zoom/ Cold resus intubation/ RPA virtual](https://drive.google.com/open?id=1jYEozIhCRtCDqoi-fNf96BX5MHNbEWbY)
 
 [9: 04 May; Detention/ violence/ adult oxyen/ testing- swabbing/Geriatrics](https://drive.google.com/open?id=1WOKLBXg39o2KT7kcOBHekyKXhzU6YkQd)
