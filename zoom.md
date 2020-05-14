@@ -4,6 +4,8 @@
 
 Date | Topic | Speakers
 ------------ | ------------- |-----------------
+13/05/20 | [Chemical Disaster Mx](https://youtu.be/LKpNYbK_tiw) | Rosslyn
+13/05/20 | [Disaster Mx](https://youtu.be/fE37M2WPI8I) | Rosslyn
 06/05/20 | [RPA written exam feedback 2020.1](https://youtu.be/SR7SAFHCtk4) | Mana
 29/04/20 |[COVDI Paediatrics](https://youtu.be/7klhEATBGGM) | Christy Norwood
 29/04/20 |[Moral injury Betrayal and Trust](https://youtu.be/05-FXlH2nwc) | Layson
