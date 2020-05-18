@@ -20,3 +20,6 @@
 [ADDITIONAL TREATMENTS](https://www.asthmahandbook.org.au/acute-asthma/clinical/add-on-treatment)
 
 [ASTHMA+COVID](https://www.asthmahandbook.org.au/clinical-issues/covid-19)
+
+
+[NEJM May 2020 from Tim Green](https://drive.google.com/open?id=1nN54BRuhjpczDwaElV2nSRX4Gk0vsMq8)
