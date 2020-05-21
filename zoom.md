@@ -4,6 +4,7 @@
 
 Date | Topic | Speakers
 ------------ | ------------- |-----------------
+20/05/20 | [SAQ training; Resus ABG](https://youtu.be/ClyGLvxFQik) | Jay
 13/05/20 | [Chemical Disaster Mx](https://youtu.be/LKpNYbK_tiw) | Rosslyn
 13/05/20 | [Disaster Mx](https://youtu.be/fE37M2WPI8I) | Rosslyn
 06/05/20 | [RPA written exam feedback 2020.1](https://youtu.be/SR7SAFHCtk4) | Mana
