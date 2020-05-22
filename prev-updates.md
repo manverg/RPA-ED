@@ -1,5 +1,7 @@
 # From Fay
 
+[12: 20 May; Swab collection, Paeds, transplants](https://drive.google.com/open?id=1rjiSkgPLKWOZSSGSw_2lArpCCtIrynxZ)
+
 [11: 12 May; Geries, Pleural fluid, CTA resus update](https://drive.google.com/open?id=1yKIfM-oCuf2PGW92pR3Y425SeJ4xpQf6)
 
 [10: 08 May; severe COVID-19 paeds/ DizzyCow zoom/ Cold resus intubation/ RPA virtual](https://drive.google.com/open?id=1jYEozIhCRtCDqoi-fNf96BX5MHNbEWbY)
