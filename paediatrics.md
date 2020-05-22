@@ -6,6 +6,8 @@
 
 [Paeds Resus Card](https://www.aci.health.nsw.gov.au/__data/assets/pdf_file/0010/495757/Emergency-Resuscitation-Cue-Lanyard-Card.pdf)
 
+[Algorithms from Ruth](https://drive.google.com/open?id=1RlCQ-z96U5QTY6TMUNkz4Nn5P6b2OnfB)
+
 # Hamilton
 
 ## * Hi Flow
