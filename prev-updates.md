@@ -1,5 +1,7 @@
 # From Fay
 
+[13: 28 May; Transplant, Quarantine Hotels pathway](https://drive.google.com/file/d/1q5pIIs-_jMFiLKFUAt9tRJ9Ssommyber/view?usp=sharing)
+
 [12: 20 May; Swab collection, Paeds, transplants](https://drive.google.com/open?id=1rjiSkgPLKWOZSSGSw_2lArpCCtIrynxZ)
 
 [11: 12 May; Geries, Pleural fluid, CTA resus update](https://drive.google.com/open?id=1yKIfM-oCuf2PGW92pR3Y425SeJ4xpQf6)
