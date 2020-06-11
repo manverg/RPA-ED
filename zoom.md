@@ -1,5 +1,9 @@
 # Zoom teaching links
 
+## [Spreadsheet: Part 1 teaching](https://docs.google.com/spreadsheets/d/1QzdH5ysRr1CZkQIUNfmFuSL7tgNfgXzzlHTgmEAJtKU/edit?usp=sharing)
+
+## [Spreadsheet: Part 2 teaching](https://docs.google.com/spreadsheets/d/1jnWn7syC7M4RzhP0wiuecrviSwpLbUPcHT-4eKX4Y-I/edit?usp=sharing)
+
 ## Wednesday Teaching
 
 Date | Topic | Speakers
@@ -16,7 +20,8 @@ Date | Topic | Speakers
 18/03/20 | [Farina / Jon on PPE](https://youtu.be/pXlwkuETwwc) | Farina/Jon
 Date | Topic | Speakers
 
-## [Spreadsheet to exams/teaching](https://docs.google.com/spreadsheets/d/1jnWn7syC7M4RzhP0wiuecrviSwpLbUPcHT-4eKX4Y-I/edit?usp=sharing)
+
+
 
 ## RPA sessions
 
