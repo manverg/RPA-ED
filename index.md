@@ -18,6 +18,8 @@
 
 ## [Zoom Teaching](zoom.md)
 
+## [Journal Club](journal.md)
+
 ## [Other links](other.md)
 
 
