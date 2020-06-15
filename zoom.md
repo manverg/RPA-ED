@@ -8,6 +8,7 @@
 
 Date | Topic | Speakers
 ------------ | ------------- |-----------------
+10/06/20 | [Toxicology](https://youtu.be/e-fFRzmrqK0) | Nazilla
 20/05/20 | [SAQ training; Resus ABG](https://youtu.be/ClyGLvxFQik) | Jay
 13/05/20 | [Chemical Disaster Mx](https://youtu.be/LKpNYbK_tiw) | Rosslyn
 13/05/20 | [Disaster Mx](https://youtu.be/fE37M2WPI8I) | Rosslyn
