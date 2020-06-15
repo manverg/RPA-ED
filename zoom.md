@@ -8,8 +8,8 @@
 
 Date | Topic | Speakers
 ------------ | ------------- |-----------------
-10/06/20 | [Trauma Grand Rounds](https://youtu.be/iHJc5E_4GE8) | Bashir/Ava
-10/06/20 | [Toxicology; Drug induced fever](https://youtu.be/e-fFRzmrqK0) | Nazilla
+10/06/20 | [Trauma Grand Rounds](https://youtu.be/Ia_CRMvBJw4) | Bashir/Ava
+10/06/20 | [Toxicology; Drug induced fever](https://youtu.be/scMjz6pL1ag) | Nazilla
 20/05/20 | [SAQ training; Resus ABG](https://youtu.be/ClyGLvxFQik) | Jay
 13/05/20 | [Chemical Disaster Mx](https://youtu.be/LKpNYbK_tiw) | Rosslyn
 13/05/20 | [Disaster Mx](https://youtu.be/fE37M2WPI8I) | Rosslyn
