@@ -11,6 +11,7 @@
 
 Number | Topic | Speakers
 ------------ | ------------- |-----------------
-01 | [Evaluating a diagnostic paper](https://youtu.be/ORnsGeU2WbA) | Dane
-00 | [Introduction: A structured approach to critical appraisal](https://youtu.be/Lh_hWuaZXXw) | Dane
+03 | [Evaluating an RCT](https://youtu.be/FtWXjcurW6I) | Dane
+02 | [Evaluating a diagnostic paper](https://youtu.be/ORnsGeU2WbA) | Dane
+01 | [Introduction: A structured approach to critical appraisal](https://youtu.be/Lh_hWuaZXXw) | Dane
 
