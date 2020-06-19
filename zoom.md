@@ -29,6 +29,7 @@ Date | Topic | Speakers
 
 Date | Topic | Speakers
 ------------ | ------------- |-----------------
+June 2020 | [All RPA ICU teaching sessions](https://bit.ly/RPAICSwednesday) | various speakers
 27/04/20 | [COVID Radiology](https://youtu.be/p_2OZN_NCBw) | Ahmad Alhindawi
 27/04/20 | [Caring for suspected and quarantined COVID patients](https://youtu.be/unQE3hk4Kns) | Bethan, Raymond Chan, Lauren Troy, Tim Southwood, David Gattas, Matt Morgan
 09/04/20 | [Hospital Update](https://youtu.be/u9ppr0dKokM)| Lauren Troy
