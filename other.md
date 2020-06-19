@@ -22,4 +22,4 @@
 [ASTHMA+COVID](https://www.asthmahandbook.org.au/clinical-issues/covid-19)
 
 
-[NEJM May 2020 from Tim Green](https://drive.google.com/open?id=1nN54BRuhjpczDwaElV2nSRX4Gk0vsMq8)
+[EMdojo](https://emdojo.com/)
