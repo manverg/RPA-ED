@@ -38,16 +38,4 @@ June 2020 | [All RPA ICU teaching sessions](https://bit.ly/RPAICSwednesday) | va
 09/04/20 | [Hospital Update](https://youtu.be/u9ppr0dKokM)| Lauren Troy
 
 
-## JMO teaching
-
-Date | Topic | Speakers
------------- | ------------- |-----------------
-TBA| -- | --
-Content in the first column | Content in the second column |
-
-## Orientation
-
-Date | Topic | Speakers
------------- | ------------- |-----------------
-TBA| -- | --
-Content in the first column | Content in the second column |
+# [Orientation 2020 PDF](https://drive.google.com/file/d/1h7NmatZSx6flgwH4va62r_Afl_zHSp_d/view?usp=sharing)
