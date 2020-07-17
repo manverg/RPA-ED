@@ -11,7 +11,9 @@
 
 Number | Topic | Speakers
 ------------ | ------------- |-----------------
-03 | [Evaluating an RCT](https://youtu.be/FtWXjcurW6I) | Dane
-02 | [Evaluating a diagnostic paper](https://youtu.be/ORnsGeU2WbA) | Dane
-01 | [Introduction: A structured approach to critical appraisal](https://youtu.be/Lh_hWuaZXXw) | Dane
+05 | [5.Panscanathon - TRAUMA] | Dane
+04 | [4. Evaluating a Systematic Review](https://youtu.be/FnP7p1VlMF8) | Dane
+03 | [3.Evaluating an RCT](https://youtu.be/FtWXjcurW6I) | Dane
+02 | [2.Evaluating a diagnostic paper](https://youtu.be/ORnsGeU2WbA) | Dane
+01 | [1.Introduction: A structured approach to critical appraisal](https://youtu.be/Lh_hWuaZXXw) | Dane
 
