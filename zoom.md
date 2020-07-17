@@ -8,6 +8,8 @@
 
 Date | Topic | Speakers
 ------------ | ------------- |-----------------
+08/07/20 | [Anaphylaxis](https://youtu.be/pwXceBDJ6BE) | Raphael Dworkin
+08/07/20 | [Acute Liver Failure](https://youtu.be/iSsUBAzgx3g) | Emily Sansoni 
 24/06/20 | [Amazing and Awesome: A Safety II Approach to Improving Patient Care, May 2020](https://youtu.be/un1WNeAVRWM) | Dane
 24/06/20 | [MDOK Leadership Series: Gimme 5 - Five essential skills for leaders at all levels](https://youtu.be/zcYVZnan_34) | Sam
 10/06/20 | [Trauma Grand Rounds](https://youtu.be/Ia_CRMvBJw4) | Bashir/Ava
