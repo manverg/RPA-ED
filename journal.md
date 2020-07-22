@@ -11,7 +11,7 @@
 
 Number | Topic | Speakers
 ------------ | ------------- |-----------------
-05 | [5.Panscanathon - TRAUMA] | Dane
+05 | [5.Panscanathon - TRAUMA](https://youtu.be/bmHRRWDZfa8) | Dane
 04 | [4. Evaluating a Systematic Review](https://youtu.be/FnP7p1VlMF8) | Dane
 03 | [3.Evaluating an RCT](https://youtu.be/FtWXjcurW6I) | Dane
 02 | [2.Evaluating a diagnostic paper](https://youtu.be/ORnsGeU2WbA) | Dane
