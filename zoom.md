@@ -8,8 +8,11 @@
 
 Date | Topic | Speakers
 ------------ | ------------- |-----------------
+22/07/20 | [Paediatric Head injuries](https://youtu.be/xrviCT5fg30) | Alice Ulrick
+22/07/20 | [Ophthalmology](https://youtu.be/LjoTmwDEtY4) | Vic Bond
 08/07/20 | [Anaphylaxis](https://youtu.be/pwXceBDJ6BE) | Raphael Dworkin
 08/07/20 | [Acute Liver Failure](https://youtu.be/iSsUBAzgx3g) | Emily Sansoni 
+24/06/20 | [ED M+M Dane Bad Care Day A safety 2 approach](https://youtu.be/Dc3v9Uip4JE) | Dane
 24/06/20 | [Amazing and Awesome: A Safety II Approach to Improving Patient Care, May 2020](https://youtu.be/un1WNeAVRWM) | Dane
 24/06/20 | [MDOK Leadership Series: Gimme 5 - Five essential skills for leaders at all levels](https://youtu.be/zcYVZnan_34) | Sam
 10/06/20 | [Trauma Grand Rounds](https://youtu.be/Ia_CRMvBJw4) | Bashir/Ava
