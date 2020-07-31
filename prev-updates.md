@@ -1,6 +1,8 @@
 # From Fay
 
-[15; 25 June: qHotels v Police Hotels Admissions](https://drive.google.com/file/d/1V6RyqjVpLBQJrxn5IUw0hmpcIvZac2eB/view?usp=sharing)
+[16; 29 July; Summary Hotels Admission PPE](https://drive.google.com/file/d/1oLb7L6uZjvC3ZsjKJYDd0eNX_l0hsgl8/view?usp=sharing)
+
+[15; 25 June: qHotels Health v Police Hotels Admissions](https://drive.google.com/file/d/1V6RyqjVpLBQJrxn5IUw0hmpcIvZac2eB/view?usp=sharing)
 
 [14: 09 June: Streaming NIV Airway Arrest Hotels Virtual](https://drive.google.com/file/d/1bdMk8uEFHkM-61HLBevCIUdsjyWnZ7e0/view?usp=sharing)
 
