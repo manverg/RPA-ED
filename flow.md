@@ -1,6 +1,6 @@
 # Flow diagrams
 
-[COVID TRIAGE updated 9th April](https://drive.google.com/open?id=1gpBHrLUR_FwbdIR8qAhMXZRZtdA1tCyR)
+[COVID TRIAGE updated 28th July](https://drive.google.com/file/d/1rgakrCEaVDKD-llD3gHsQt-teQPMLZdi/view?usp=sharing)
 
 [COVID triage](http://slhd-intranet.sswahs.nsw.gov.au/RPA/ICS/covid_triage.html) (only on intranet)
 
