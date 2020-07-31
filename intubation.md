@@ -1,5 +1,7 @@
 # Covid Intubation
 
+[Intubation	PPE	for	patients at	low	risk of	COVID-19; July 2020](https://drive.google.com/file/d/1gHlNRGV6pUE0jMtFR6to9W4akJoM0kZv/view?usp=sharing)
+
 [Intubation checklist](https://drive.google.com/open?id=1Srt1b3FiH3MYYRsfHxYuWCSOr5aQakeZ)
 
 [Paeds Resp Resus](https://drive.google.com/open?id=16r1dE5zjmYA-N0z2F5SsrjxmvXEDGKZu)
