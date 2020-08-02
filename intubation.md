@@ -18,7 +18,15 @@ Watch these videos a few times and note the differences
 Do the sim with Sinead, then send Bernie an email to let her know you have watched it and done the sim
 
 
-# [RPA CPR GUIDE 9 APRIL 2020](https://drive.google.com/open?id=1nGeiFdaDH2_3Bu_VC1w-8JbCvMdQM9vK)
+# Other Useful info in resus:
+
+[Resp support in Covid 24 Aprl 2020](https://drive.google.com/file/d/1QekZzqJMnCepkfgB0BmCtjK4b5NYWvRy/view?usp=sharing)
+
+[RPA CPR GUIDE 9 APRIL 2020](https://drive.google.com/open?id=1nGeiFdaDH2_3Bu_VC1w-8JbCvMdQM9vK)
+
+[Intubation Sim notes 12 March 2020](https://drive.google.com/file/d/1Ysp3RCZWtzWjj3qs7aWDmSoutSJ6O2pT/view?usp=sharing)
+
+
 
 # ACEM CPR GUIDE 6 APRIL 2020
 
