@@ -28,12 +28,14 @@ Do the sim with Sinead, then send Bernie an email to let her know you have watch
 
 
 
-# ACEM CPR GUIDE 6 APRIL 2020
+# ACEM CPR GUIDE 
 
-[WEBLINK to ACEM resus](https://acem.org.au/Content-Sources/Advancing-Emergency-Medicine/COVID-19/Resources/Clinical-Guidelines/Adult-Cardiac-Arrest-Management)
+[Cardiac arrest ACEM 3/8/20](https://drive.google.com/file/d/1s1nDgCytH0npZvYjT5NVxrtOuUij4TzH/view?usp=sharing)
 
-[ACEM PPE IN ARREST](https://drive.google.com/open?id=18HtbraJi9hvt7U-UBQD_9YonD0dChxHC)
+[WEBLINK to ACEM resus 6/4/20](https://acem.org.au/Content-Sources/Advancing-Emergency-Medicine/COVID-19/Resources/Clinical-Guidelines/Adult-Cardiac-Arrest-Management)
 
-[ACEM Resuscitation Algorithm](https://drive.google.com/open?id=1l6SSfSa83z0csW6qnt53MqDp1VbtuI8W)
+[ACEM PPE IN ARREST 6/4/20](https://drive.google.com/open?id=18HtbraJi9hvt7U-UBQD_9YonD0dChxHC)
 
-[ACEM CPR Algorithm](https://drive.google.com/open?id=1LHBNMiexSaKcWN21a1QTvpixFtR_XLkM)
+[ACEM Resuscitation Algorithm 6/4/20](https://drive.google.com/open?id=1l6SSfSa83z0csW6qnt53MqDp1VbtuI8W)
+
+[ACEM CPR Algorithm 6/4/20](https://drive.google.com/open?id=1LHBNMiexSaKcWN21a1QTvpixFtR_XLkM)
