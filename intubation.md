@@ -24,7 +24,9 @@ Do the sim with Sinead, then send Bernie an email to let her know you have watch
 
 [RPA CPR GUIDE 9 APRIL 2020](https://drive.google.com/open?id=1nGeiFdaDH2_3Bu_VC1w-8JbCvMdQM9vK)
 
-[Intubation Sim notes 12 March 2020](https://drive.google.com/file/d/1Ysp3RCZWtzWjj3qs7aWDmSoutSJ6O2pT/view?usp=sharing)
+[ED RESPIRATORY RESUS VERSION 4: COVID INTUBATION PLAN 20/03/2020](https://drive.google.com/file/d/1FAwaSeT0K_V3LHLsB0AH4QCrS-kvmr0P/view?usp=sharing)
+
+[CTA nursing notes](https://drive.google.com/file/d/1d_vGhuEYCpk_tc-RiwHW-gWeJuTqqPtg/view?usp=sharing)
 
 
 
