@@ -1,6 +1,8 @@
 # From Fay
 
-[16: 29 July; Summary Hotels Admission PPE](https://drive.google.com/file/d/1oLb7L6uZjvC3ZsjKJYDd0eNX_l0hsgl8/view?usp=sharing)
+[16: 04 Aug: Fit testing Covid swabs Streaming Paeds Ward RAN](https://drive.google.com/file/d/1znkVgDiriXcbCS_Q860c3IznMvNHMSvS/view?usp=sharing)
+
+[16a: 29 July; Summary for new REGs; Hotels Admission PPE](https://drive.google.com/file/d/1oLb7L6uZjvC3ZsjKJYDd0eNX_l0hsgl8/view?usp=sharing)
 
 [15: 25 June: qHotels Health v Police Hotels Admissions](https://drive.google.com/file/d/1V6RyqjVpLBQJrxn5IUw0hmpcIvZac2eB/view?usp=sharing)
 
