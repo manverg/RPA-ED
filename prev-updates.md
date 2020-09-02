@@ -1,5 +1,7 @@
 # From Fay
 
+[17: 27 Aug: Masks Community assessment Critically Unwell](https://drive.google.com/file/d/1fZj8ChGuZoF9AmH2-U8qvJwznUqwVXvj/view?usp=sharing)
+
 [16: 04 Aug: Fit testing Covid swabs Streaming Paeds Ward RAN](https://drive.google.com/file/d/1znkVgDiriXcbCS_Q860c3IznMvNHMSvS/view?usp=sharing)
 
 [16a: 29 July; Summary for new REGs; Hotels Admission PPE](https://drive.google.com/file/d/1oLb7L6uZjvC3ZsjKJYDd0eNX_l0hsgl8/view?usp=sharing)
