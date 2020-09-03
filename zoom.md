@@ -44,3 +44,5 @@ June 2020 | [All RPA ICU teaching sessions](https://bit.ly/RPAICSwednesday) | va
 
 
 # [Orientation 2020 PDF](https://drive.google.com/file/d/1h7NmatZSx6flgwH4va62r_Afl_zHSp_d/view?usp=sharing)
+
+# [NewZealand Facem education](https://1drv.ms/u/s!AvkC79vCdAIngZx5YQZ2cn7-Ibii1w?e=mcUmMC)
