@@ -8,6 +8,8 @@
 
 [Algorithms from Ruth](https://drive.google.com/open?id=1ulsBbLkPN4-Q7p3-eR4uXBTdmHWHZWWm)
 
+[Paeds RMO orientation live document](https://docs.google.com/document/d/14eNOWKNUFHz0Do7QbexeHWeYje-u23mePMu3uXawI6s/edit?usp=sharing)
+
 # Hamilton
 
 ## * Hi Flow
