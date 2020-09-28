@@ -8,6 +8,7 @@
 
 Date | Topic | Speakers
 ------------ | ------------- |-----------------
+02/09/20 | [Blunt TRAUMA](https://youtu.be/ns54Mx2W2_0) | Matt O
 22/07/20 | [Paediatric Head injuries](https://youtu.be/xrviCT5fg30) | Alice Ulrick
 22/07/20 | [Ophthalmology](https://youtu.be/LjoTmwDEtY4) | Vic Bond
 08/07/20 | [Anaphylaxis](https://youtu.be/pwXceBDJ6BE) | Raphael Dworkin
