@@ -8,6 +8,7 @@
 
 Date | Topic | Speakers
 ------------ | ------------- |-----------------
+12/12/20 | [Not Yoga symposium ACEM](https://www.youtube.com/watch?v=ekBgGY4VibQ&list=PLOLdDHSq2n0a5xfv4gZObYnVYW7qjYl3x&index=1) | ACEM
 28/09/20 | [How to upload to Microsoft TEAMS](https://youtu.be/IFjSR9iQzB4) | Mana
 02/09/20 | [Blunt TRAUMA](https://youtu.be/ns54Mx2W2_0) | Matt O
 22/07/20 | [Paediatric Head injuries](https://youtu.be/xrviCT5fg30) | Alice Ulrick
