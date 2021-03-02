@@ -8,6 +8,8 @@
 
 Date | Topic | Speakers
 ------------ | ------------- |-----------------
+03/03/21 | [COVID-19 Vaccinations update](https://youtu.be/nwNEkNY2zIc) | Peter Wark ACI NSW Health
+12/10/20 | [Trauma Orientation](https://youtu.be/rXObQnfAlUw) | Matthew Oliver
 12/12/20 | [Not Yoga symposium ACEM](https://www.youtube.com/watch?v=ekBgGY4VibQ&list=PLOLdDHSq2n0a5xfv4gZObYnVYW7qjYl3x&index=1) | ACEM
 28/09/20 | [How to upload to Microsoft TEAMS](https://youtu.be/IFjSR9iQzB4) | Mana
 02/09/20 | [Blunt TRAUMA](https://youtu.be/ns54Mx2W2_0) | Matt O
