@@ -1,6 +1,9 @@
 # Orientation content:
 
 
+
+[Tutorial room AV setup Nov 2022](https://youtu.be/r3WrUBvKmlY)
+
 # PPE
 
 (PPE comes first = we want NO staff infections for the next 6 months!!)
