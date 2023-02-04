@@ -16,7 +16,7 @@
 [HiFlow](https://youtu.be/UkrFbRb0bfY)
 
 ## * Nasal CPAP
-[Nasal CPAP](https://youtu.be/JeXSA6AnLqQ)
+[Paeds Nasal CPAP Hamilton T1 set up: Ruth](https://youtu.be/JeXSA6AnLqQ)
 
 ## * [Paediatric non Invasive Ventilation Setup - Hamilton C1 - RUTH](https://youtu.be/zrCkmITo-L8)
 
