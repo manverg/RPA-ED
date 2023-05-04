@@ -1,6 +1,6 @@
 # Other links
 
-![Alan Quiz](images/Alan.png)  [Alan Quiz](https://drive.google.com/file/d/1y0DPRhAERa012N6ewzbcHKBWnR3AB1mG/view?usp=sharing)
+![Alan Quiz](images/Alan.png)  [Alan Quiz](https://docs.google.com/document/d/e/2PACX-1vSPq9nc-T91H9JtU8Lud8rZN2ZB4jBFgI1MQKk_QT1aSow2UPOLcr-sTyHOgknpGnWMaavx_Lks4de5/pub)
 
 
 ![Australasian College for Emergency Medicine](images/acem.png)
