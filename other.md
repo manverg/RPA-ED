@@ -1,6 +1,6 @@
 # Other links
 
-![Alan Quiz](images/Alan.jpg)
+![Alan Quiz](images/Alan.png)
 
 [Alan Quiz](https://drive.google.com/file/d/1y0DPRhAERa012N6ewzbcHKBWnR3AB1mG/view?usp=sharing)
 
