@@ -1,5 +1,9 @@
 # Other links
 
+![Alan Quiz](images/Alan.jpg)
+
+[Alan Quiz](https://drive.google.com/file/d/1y0DPRhAERa012N6ewzbcHKBWnR3AB1mG/view?usp=sharing)
+
 ![Australasian College for Emergency Medicine](images/acem.png)
 
 [Australasian College for Emergency Medicine](https://acem.org.au/COVID-19)
